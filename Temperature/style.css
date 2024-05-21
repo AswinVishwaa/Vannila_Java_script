@@ -1,0 +1,27 @@
+form{
+    text-align: center;
+    background-color: aliceblue;
+    max-width: 350px;
+    margin: auto;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+#textbox{
+    margin-bottom: 5px;
+    text-align: center;
+    max-width: 200px;
+}
+#tofarenheit{
+    margin-bottom: 10px;
+}
+#tocelsius{
+    margin-bottom: 15px;
+}
+#btn{
+    padding: 5px 15px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(217, 223, 228);
+    border-radius: 5px;
+}
