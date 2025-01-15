@@ -1,4 +1,13 @@
-This repository consists only of pure Javascript programs without any frameworks. All the programs uploaded here were created by me while I was learning JavaScript.
-Since these and all projects were made with the motive of learning JavaScript, I have not been involved in CSS that much, so the style of the page might be simple.
-I will continuously upload simple JavaScript projects I have created to this repository, so stay updated.
-I will give a preview of the webpage link in this read-me file below the name of the project so you can navigate easily.
+# **Vanilla JavaScript Projects**  
+
+This repository contains a collection of simple JavaScript projects built without any frameworks or libraries. These projects were created to practice and understand core JavaScript concepts. Since the focus is on functionality, the CSS styling of the pages is kept minimal and straightforward.  
+
+The repository will be continuously updated with new projects, each showcasing basic JavaScript features and techniques. Below, you’ll find a list of projects along with preview links for easy navigation.  
+
+### **Project List with Previews**  
+1. **Temperature Converter** - [Preview](#)  
+2. **Dice Roller** - [Preview](#)  
+3. **Number Guessing Game** - [Preview](#)  
+4. **Simple Calculator** - [Preview](#)  
+
+Stay tuned for more additions as the repository grows!  
