@@ -8,6 +8,7 @@ The repository will be continuously updated with new projects, each showcasing b
 1. **Temperature Converter** 
 2. **Dice Roller** 
 3. **Number Guessing Game** 
-4. **Simple Calculator** 
+4. **Simple Calculator**
+5. **Rock Paper Scissor** 
 
 Stay tuned for more additions as the repository grows!  
