@@ -2,7 +2,7 @@
 
 This repository contains a collection of simple JavaScript projects built without any frameworks or libraries. These projects were created to practice and understand core JavaScript concepts. The focus is primarily on functionality, so the CSS styling is minimal and straightforward.
 
-The repository will be continuously updated with new projects, each showcasing basic JavaScript features and techniques.
+The repository will be continuously updated with new projects, each showcasing basic JavaScript features and techniques. 
 
 ---
 
