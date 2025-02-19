@@ -6,7 +6,7 @@ The repository will be continuously updated with new projects, each showcasing b
 
 --- 
 
-## **Project List with Previews**
+## **Project List with Previews** 
 
 1. **Temperature Converter**  
    - Description: Converts temperature between Celsius, Fahrenheit, and Kelvin.  
