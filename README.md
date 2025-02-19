@@ -4,7 +4,7 @@ This repository contains a collection of simple JavaScript projects built withou
 
 The repository will be continuously updated with new projects, each showcasing basic JavaScript features and techniques. 
 
----
+--- 
 
 ## **Project List with Previews**
 
